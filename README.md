@@ -28,7 +28,7 @@ This saves the user from having to manually copy and paste.
 
 - Deepseeker-v2:latest
 - yabi/codestral_22b_v0_1:q2_k
-- shcuchi215/python_code_13b:latest
+- shuchi215/python_code_13b:latest
 
 ## Requirements
 
