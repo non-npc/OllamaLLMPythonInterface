@@ -18,7 +18,7 @@ A graphical user interface for interacting with Ollama's large language models p
 ## Tested LLM's include:
 
 - Deepseeker-v2:latest
-- yabi/codestral_22b_v1_1:q2_k
+- yabi/codestral_22b_v0_1:q2_k
 - shcuchi215/python_code_13b:latest
 
 ## Requirements
