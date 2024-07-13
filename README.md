@@ -5,7 +5,7 @@ Save code blocks to files with the click of a button!
 
 ![Ollama LLM Python Interface Screenshot](screenshot.png)
 
-# Project Goals & a tip
+# Project Goals
 
 Save code blocks to pages in a convenient manner. The use case for the application is someonone who wants to generate applications and save the code blocks locally.
 This saves the user from having to manually copy and paste. 
