@@ -48,7 +48,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under CC0 1.0 Universal.
+This project is licensed under CC0 1.0 Universal license - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
