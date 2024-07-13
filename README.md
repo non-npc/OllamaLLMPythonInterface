@@ -5,6 +5,11 @@ Save code blocks to files with the click of a button!
 
 ![Ollama LLM Python Interface Screenshot](screenshot.png)
 
+# Project Goals & a tip
+
+Save code blocks to pages in a convenient manner. The use case for the application is someonone who wants to generate applications and save the code blocks locally.
+This saves the user from having to manually copy and paste. 
+
 ## Features
 
 - Connect to local Ollama instance
@@ -19,7 +24,7 @@ Save code blocks to files with the click of a button!
 - Ability to stop ongoing requests
 - Built in debugging
 
-## Tested LLM's include:
+## Tested LLM's include
 
 - Deepseeker-v2:latest
 - yabi/codestral_22b_v0_1:q2_k
