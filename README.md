@@ -12,7 +12,7 @@ Save code blocks to files with the click of a button!
 - Interactive chat interface
 - Real-time streaming of AI responses
 - Code block detection and saving
-- Application will try to auto-detec the filename for the code blocks to the best of its ability
+- Application will try to auto-detect the filename for the code blocks to the best of its ability
 - Night mode for comfortable viewing (alpha)
 - Response information display (start time, end time, length)
 - Ability to stop ongoing requests
