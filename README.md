@@ -7,7 +7,7 @@ A graphical user interface for interacting with Ollama's large language models p
 ## Features
 
 - Connect to local Ollama instance
-- Select from available language models
+- Select from available language models (LLM's)
 - Interactive chat interface
 - Real-time streaming of AI responses
 - Code block detection and saving
