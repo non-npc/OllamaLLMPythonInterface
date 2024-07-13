@@ -1,6 +1,7 @@
 # Ollama LLM Python Interface
 
 A graphical user interface for interacting with Ollama's large language models primarily the coding models such as Deepseeker-v2:latest, built with Python and Tkinter.
+Save code blocks to files with the click of a button!
 
 ![Ollama LLM Python Interface Screenshot](screenshot.png)
 
