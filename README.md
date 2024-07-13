@@ -16,6 +16,7 @@ Save code blocks to files with the click of a button!
 - Night mode for comfortable viewing (alpha)
 - Response information display (start time, end time, length)
 - Ability to stop ongoing requests
+- Built in debugging
 
 ## Tested LLM's include:
 
