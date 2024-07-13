@@ -15,6 +15,12 @@ A graphical user interface for interacting with Ollama's large language models p
 - Response information display (start time, end time, length)
 - Ability to stop ongoing requests
 
+## Tested LLM's include:
+
+- Deepseeker-v2:latest
+- yabi/codestral_22b_v1_1:q2_k
+- shcuchi215/python_code_13b:latest
+
 ## Requirements
 
 - Python 3.12+
