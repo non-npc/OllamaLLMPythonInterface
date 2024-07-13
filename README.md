@@ -38,10 +38,10 @@ This saves the user from having to manually copy and paste each resulting code b
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/ollama-llm-interface.git
-   cd ollama-llm-interface
+   - git clone https://github.com/yourusername/ollama-llm-interface.git
+   - cd ollama-llm-interface
 2. Install the required packages:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 3. Ensure Ollama is installed and running on your local machine and that you have models downloaded and accessible to Ollama.
 
 ## Usage
