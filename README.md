@@ -12,7 +12,7 @@ Save code blocks to files with the click of a button!
 - Interactive chat interface
 - Real-time streaming of AI responses
 - Code block detection and saving
-- Night mode for comfortable viewing
+- Night mode for comfortable viewing (alpha)
 - Response information display (start time, end time, length)
 - Ability to stop ongoing requests
 
