@@ -13,6 +13,7 @@ Save code blocks to files with the click of a button!
 - Real-time streaming of AI responses
 - Code block detection and saving
 - Application will try to auto-detect the filename for the code blocks to the best of its ability
+- Once the AI response is completed, then below the response our app will output all the code blocks from which you can choose which or all to save to files somwhere
 - Night mode for comfortable viewing (alpha)
 - Response information display (start time, end time, length)
 - Ability to stop ongoing requests
