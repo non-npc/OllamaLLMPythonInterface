@@ -38,7 +38,7 @@ This saves the user from having to manually copy and paste each resulting code b
 ## Installation
 
 1. Clone this repository:
-   - git clone https://github.com/yourusername/ollama-llm-interface.git
+   - git clone https://github.com/non-npc/ollama-llm-interface.git
    - cd ollama-llm-interface
 2. Install the required packages:
    - pip install -r requirements.txt
